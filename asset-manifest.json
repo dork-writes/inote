@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/inote/static/css/main.8d8fb034.css",
-    "main.js": "/inote/static/js/main.bc7b1123.js",
+    "main.js": "/inote/static/js/main.2306c0d7.js",
     "static/js/787.8d7bece3.chunk.js": "/inote/static/js/787.8d7bece3.chunk.js",
     "static/media/TitilliumWeb-Regular.ttf": "/inote/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
     "static/media/NewAlenia-7B8E4.ttf": "/inote/static/media/NewAlenia-7B8E4.090f2a6c6d1fecdd9496.ttf",
@@ -13,11 +13,11 @@
     "static/media/add.svg": "/inote/static/media/add.72e498838059025b4da2d324d5b10d22.svg",
     "static/media/showpassword.svg": "/inote/static/media/showpassword.adf855e31121adba304dc21283b2cbfa.svg",
     "main.8d8fb034.css.map": "/inote/static/css/main.8d8fb034.css.map",
-    "main.bc7b1123.js.map": "/inote/static/js/main.bc7b1123.js.map",
+    "main.2306c0d7.js.map": "/inote/static/js/main.2306c0d7.js.map",
     "787.8d7bece3.chunk.js.map": "/inote/static/js/787.8d7bece3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d8fb034.css",
-    "static/js/main.bc7b1123.js"
+    "static/js/main.2306c0d7.js"
   ]
 }
