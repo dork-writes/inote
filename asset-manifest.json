@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inote/static/css/main.8d8fb034.css",
+    "main.js": "/inote/static/js/main.048ced00.js",
+    "static/js/787.8d7bece3.chunk.js": "/inote/static/js/787.8d7bece3.chunk.js",
+    "static/media/TitilliumWeb-Regular.ttf": "/inote/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/NewAlenia-7B8E4.ttf": "/inote/static/media/NewAlenia-7B8E4.090f2a6c6d1fecdd9496.ttf",
+    "static/media/hidepassword.svg": "/inote/static/media/hidepassword.7aaff89fc4cd9816563a521c4f6bc1db.svg",
+    "static/media/compose.svg": "/inote/static/media/compose.806412310105715329bbd51734d89837.svg",
+    "static/media/edit.svg": "/inote/static/media/edit.badda1d56a21b49f8acb8f7adfae2264.svg",
+    "static/media/delete.svg": "/inote/static/media/delete.2cf74c66b5fc1deed6ee1e7aaec17ed6.svg",
+    "index.html": "/inote/index.html",
+    "static/media/add.svg": "/inote/static/media/add.72e498838059025b4da2d324d5b10d22.svg",
+    "static/media/showpassword.svg": "/inote/static/media/showpassword.adf855e31121adba304dc21283b2cbfa.svg",
+    "main.8d8fb034.css.map": "/inote/static/css/main.8d8fb034.css.map",
+    "main.048ced00.js.map": "/inote/static/js/main.048ced00.js.map",
+    "787.8d7bece3.chunk.js.map": "/inote/static/js/787.8d7bece3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8fb034.css",
+    "static/js/main.048ced00.js"
+  ]
+}
